@@ -1,0 +1,22 @@
+{
+  "name": "hangman_inquire",
+  "version": "1.0.0",
+  "description": "hangman inquirer",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedxMo/hangman_inquire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TedxMo/hangman_inquire/issues"
+  },
+  "homepage": "https://github.com/TedxMo/hangman_inquire#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
